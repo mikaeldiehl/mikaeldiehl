@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://github.com/mikaeldiehl-2">
+<a href="https://github.com/mikaeldiehl">
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" />
 </a>
 <a href="https://www.linkedin.com/in/mikael-moraes-diehl-380a4528a/">
