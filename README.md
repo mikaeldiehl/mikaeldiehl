@@ -93,25 +93,34 @@ Pós-graduação Lato Sensu | Conclusão em julho de 2026
 ---
 
 
-## ⚡ Tech Stack
+## 🧠 Tech Stack
 
 <div align="center">
 
-### Linguagens
+### 🤖 IA, LLMs e Automação
 
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
 
-### Backend & Database
+### 💻 Desenvolvimento Full-Stack
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,python,react,nodejs,express,html,css,bootstrap,electron" />
 
-### Frontend & Frameworks
+### 🗄️ Bancos de Dados
 
-<img src="https://skillicons.dev/icons?i=bootstrap,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
+<img src="https://img.shields.io/badge/Firebird-EA1B22?style=for-the-badge&logoColor=white" />
 
-### Tools & Environment
+### ☁️ Infraestrutura e Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,bash,vscode,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github" />
 
 </div>
 
