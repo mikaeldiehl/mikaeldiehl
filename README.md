@@ -213,22 +213,22 @@ Sistema de atendimento automatizado com IA e possibilidade de encaminhamento par
 
 <div align="center">
 
-<a href="https://github.com/mikaeldiehl-2">
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=mikaeldiehl-2&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
+<a href="https://github.com/mikaeldiehl">
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=mikaeldiehl&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&rank_icon=github" />
 </a>
 
-<a href="https://github.com/mikaeldiehl-2">
-<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mikaeldiehl-2&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+<a href="https://github.com/mikaeldiehl">
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=mikaeldiehl&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </a>
 
 <br><br>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeldiehl-2&theme=radical&hide_border=true" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeldiehl&theme=radical&hide_border=true" />
 
 <br><br>
 
 <div align="center">
-  <img width="95%" src="https://ghchart.rshah.org/00D9FF/mikaeldiehl-2" alt="GitHub Contribution Chart" />
+  <img width="95%" src="https://ghchart.rshah.org/00D9FF/mikaeldiehl" alt="GitHub Contribution Chart" />
 </div>
 
 </div>
